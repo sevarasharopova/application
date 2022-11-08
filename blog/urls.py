@@ -10,6 +10,7 @@ urlpatterns = [
     path('moshin3/', moshin3), 
     path('moshin4/', moshin4), 
     path('moshin5/', moshin5),
-    path('moshin6/', moshin6), 
+    path('moshin6/', moshin6),
+    path('gul/', gul), 
 
 ]

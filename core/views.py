@@ -17,3 +17,6 @@ def moshin5(request):
 
 def moshin6(request):
     return render(request,'range rower.html')
+
+def gul(request):
+    return render(request,'index.html')
